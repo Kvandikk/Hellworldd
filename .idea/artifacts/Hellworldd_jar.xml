@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Hellworldd:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Hellworldd_jar</output-path>
+    <root id="archive" name="Hellworldd.jar">
+      <element id="module-output" name="Hellworldd" />
+    </root>
+  </artifact>
+</component>
